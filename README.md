@@ -20,7 +20,7 @@ A desktop tool for automatically cropping film negatives and scanned photos.
 
 ```text
 Example:
-![UI](<img width="2559" height="1380" alt="Screenshot 2026-05-05 172222" src="https://github.com/user-attachments/assets/a0498120-5ea7-48f9-bd24-3838c081f756" />)
+![UI](screenshot.png)
 ```
 
 ---
