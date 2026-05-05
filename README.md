@@ -73,7 +73,6 @@ FilmCropper/
 ├── TECHNICAL.md              # Implementation details
 ├── icon.ico                  # App icon
 ├── icon.png                  # Source icon
-└── assets/                   # Screenshots / visuals
 ```
 
 ---
