@@ -16,11 +16,10 @@ A desktop tool for automatically cropping film negatives and scanned photos.
 
 ## 🖼️ Screenshot
 
-*(Add your UI screenshot here)*
 
 ```text
 Example:
-![UI](screenshot.png)
+![UI](Screenshot.png)
 ```
 
 ---
