@@ -18,7 +18,6 @@ A desktop tool for automatically cropping film negatives and scanned photos.
 
 
 ```text
-Example:
 ![UI](Screenshot.png)
 ```
 
