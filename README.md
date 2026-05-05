@@ -2,7 +2,7 @@
 
 A desktop tool for automatically cropping film negatives and scanned photos.
 
-##  Features
+## ✨ Features
 
 * Click-to-select border color for precise detection
 * Automatic cropping based on border segmentation
@@ -14,14 +14,18 @@ A desktop tool for automatically cropping film negatives and scanned photos.
 
 ---
 
-##  Screenshot
+## 🖼️ Screenshot
 
+*(Add your UI screenshot here)*
 
+```text
+Example:
+![UI](<img width="2559" height="1380" alt="Screenshot 2026-05-05 172222" src="https://github.com/user-attachments/assets/a0498120-5ea7-48f9-bd24-3838c081f756" />)
 ```
 
 ---
 
-##  Quick Start
+## 🚀 Quick Start
 
 ### 1. Install dependencies
 
@@ -37,15 +41,15 @@ python filmcrop_final_ui_app.py
 
 ---
 
-##  Download (Windows)
+## 📦 Download (Windows)
 
 You can download the pre-built executable from:
 
- **Releases → FilmCropper.exe**
+👉 **Releases → FilmCropper.exe**
 
 ---
 
-##  How It Works (Overview)
+## 🧠 How It Works (Overview)
 
 1. User clicks on the border color
 2. Image is converted to LAB color space
@@ -59,7 +63,7 @@ For more details, see [TECHNICAL.md](TECHNICAL.md)
 
 ---
 
-##  Project Structure
+## 🧩 Project Structure
 
 ```text
 FilmCropper/
@@ -74,7 +78,7 @@ FilmCropper/
 
 ---
 
-##  Limitations
+## ⚠️ Limitations
 
 * Assumes relatively consistent border color
 * May struggle with low contrast or noisy backgrounds
@@ -82,7 +86,7 @@ FilmCropper/
 
 ---
 
-##  Future Work
+## 🔮 Future Work
 
 * Multi-frame detection (automatic strip splitting)
 * More robust border detection under uneven lighting
@@ -90,6 +94,6 @@ FilmCropper/
 
 ---
 
-##  License
+## 📄 License
 
 MIT License
