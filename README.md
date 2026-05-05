@@ -16,10 +16,9 @@ A desktop tool for automatically cropping film negatives and scanned photos.
 
 ## 🖼️ Screenshot
 
-
-```text
-![UI](Screenshot.png)
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/filmlover-0111/FilmCropper/main/screenshot.png" width="800"/>
+</p>
 
 ---
 
